@@ -38,7 +38,7 @@ class Studi{
     
   }
   void output(){
-    //qon
+    //qonita
     cout<<"================================================================="<<endl;
   	cout << "\t\tNomor buku setelah diurutkan : "<<endl;
     cout<<"================================================================="<<endl;

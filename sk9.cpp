@@ -11,7 +11,7 @@ class Studi{
       cout << "\t\tMasukkan nomor buku ke " << i+1 << " = " ;
       cin >> data[i];
     }
-    cout << endl;
+    cout <<endl;
   }
   void proses(){
     //lifa
